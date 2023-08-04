@@ -60,9 +60,10 @@ class DynamicArray(object):
     
 
 arr=DynamicArray()
+arr.capacity=2
 arr.append(10)
 arr.append(20)
 arr.append(3)
-arr.capacity=2
+
 
 
