@@ -1,7 +1,7 @@
 # Implementation-of-Data-Structures-and-Algorithms
 Implementation of Important Data structures and Algorithms from Scratch in python
 # Data Structers: 
-- [] Arrays (Dynamic)  
+- [x] Arrays (Dynamic)  
 
 
 - [x] Linked Lists 
