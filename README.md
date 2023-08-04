@@ -1,10 +1,10 @@
 # Implementation-of-Data-Structures-and-Algorithms
 Implementation of Important Data structures and Algorithms from Scratch in python
 # Data Structers: 
-- [ ] Arrays (Dynamic)  
+- [] Arrays (Dynamic)  
 
 
-- [ ] Linked Lists 
+- [x] Linked Lists 
 
 
 - [ ] Stacks 
@@ -13,38 +13,38 @@ Implementation of Important Data structures and Algorithms from Scratch in pytho
 - [ ] Queue 
 
 
-- [x] Trees  
+- [ ] Trees  
 
 
-- [x] Graph 
+- [ ] Graph 
 # Searching Algorithms:
 
-- [x] Binary Search 
+- [ ] Binary Search 
 
 # Sorting Algorithms
 
-- [x] Bubble Sort 
+- [ ] Bubble Sort 
 
 
-- [x] Merge Sort 
+- [ ] Merge Sort 
 
 
-- [x] Quick Sort 
+- [ ] Quick Sort 
 
 
-- [x] Selection Sort 
+- [ ] Selection Sort 
 
 
-- [x] Insertion Sort
+- [ ] Insertion Sort
 
 
 # Algorithms
 
-- [x] Greedy
+- [ ] Greedy
 
 
-- [x] Dynamic Programming 
+- [ ] Dynamic Programming 
 
 
-- [x] Graph Algorithms 
+- [ ] Graph Algorithms 
 
